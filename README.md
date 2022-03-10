@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kenneropia
 - 👀 I’m interested in learning more nodejs concepts
-- 🌱 I’m currently learning nodejs(express) /mongodb
+- 🌱 I’m currently learning react/nodejs/mongodb
 - 💞️ I’m looking to collaborate on junior dev projects
 - 📫 How to reach me "not yet available"
 
