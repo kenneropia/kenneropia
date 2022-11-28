@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kenneropia
 - 🌱 I’m currently learning react/nodejs/mongodb
-- 💞️ I’m looking to collaborate on junior dev projects
+- 💞️ I’m looking to collaborate on portfolio projects
 - 📫 How to reach me adetunmbikenny_at_gmail_dot_com
 
 <!---
