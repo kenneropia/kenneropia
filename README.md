@@ -7,6 +7,6 @@
 - 🤔 I’m looking for help with hands on experience
 - 💬 Ask me about anything
 - 📫 How to reach me:
-> - Email: adetunmbikenny_at_gmail_dot_com
+> - Email: adetunmbikenny@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love anime, light novel, pasta and peace/tranquility.
