@@ -1,11 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on becoming a better software engineer
-- 🧘 I’m currently learning more about microservices and event driven systems
-- 🌱 I’m skilled with NodeJS, React, Express, SQl and NoSQL
-- 👯 I’m looking to collaborate on fun open source projects preferably on nodejs or react
-- 💬 Ask me about anything
-- 📫 How to reach me:
-> - Email: adetunmbikenny@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love anime, light novel, pasta and peace/tranquility.
+- 🧠 Backend Engineer & Computer Science graduate  
+- 💻 Skilled in NestJS, TypeScript, SQL, Next.js  
+- 🧩 Exploring Python, LangChain, Ollama/VLLM & agentic RAG systems  
+- 🤝 Open to collaborating on Node.js or React projects  
+- 📫 Reach me at: adetunmbikenny@gmail.com  
+- ⚡ Fun fact: I enjoy anime, light novels, food and meeting new people, hit me:)
